@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-image:linear-gradient(white, #f9e6b0, #fbe3a0, #eda4bf);
+}
+
+.cfh-logo {
+    padding-left: 270px;
+}
+
+footer {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
